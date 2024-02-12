@@ -1,4 +1,4 @@
-> This lab sheet and all other materials can be found on GitHub here: https://github.com/QMUL-ECS735P/lab-week-6/
+> This lab sheet and all other materials can be found on GitHub here: https://github.com/QMUL-ECS7028P/lab-week-6/
 
 # OWL, Ontologies, and Protege pt.2
 > **Session objectives:**
